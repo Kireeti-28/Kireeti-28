@@ -1,5 +1,10 @@
 ### Hi there! 👋
 
+- 🌱 I’m currently learning Go, ReactJS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Work at software is never done.
+
+
 <!--
 **Kireeti-28/Kireeti-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
