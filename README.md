@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 - 🌱 I’m currently learning Go, ReactJS
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Work at software is never done.
+- 😄 Pronouns: He/Him
 
 
 <!--
