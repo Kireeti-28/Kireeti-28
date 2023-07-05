@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🌱 I’m currently learning Go, React.
-- ⚡ Fun fact: Work at software is never completed.
+- ⚡ Fun fact: Work on a software is never completed.
 - 😄 Pronouns: He/Him.
 
 
