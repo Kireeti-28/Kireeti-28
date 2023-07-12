@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning Go, React.
+- 🌱 I’m currently learning Golang, React.
 - ⚡ Fun fact: Work on a software is never completed.
 - 😄 Pronouns: He/Him.
 
