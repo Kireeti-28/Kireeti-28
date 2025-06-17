@@ -1,8 +1,32 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning Go.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Work on a software product is never a complete.
+I'm a software developer who enjoys crafting clean, scalable solutions — from backend services to frontend interfaces.
+
+- 💼 I professionally work with **Java**, **Spring Framework**, and **Angular** to build full-stack enterprise applications.  
+- 🌱 Currently exploring **Go**, diving into backend concurrency and systems programming.  
+- 💡 Passionate about **clean architecture**, **modular codebases**, and writing code that's easy to understand and maintain.  
+- 🧰 Experienced in building REST APIs, integrating complex systems, and creating responsive UIs.  
+- 🛠️ Always experimenting with new tech through side projects, tools, and prototypes.  
+- 😄 Pronouns: **He/Him**.  
+- ⚡ Fun fact: Work on a software product is never *truly* complete — there’s always something to improve or rethink.
+
+---
+
+#### 📌 Tech Stack
+
+**Languages & Frameworks:**  
+`Java`, `Go`, `TypeScript`, `JavaScript`  
+`Spring`, `Angular`, `Node.js`
+
+**Tools & Platforms:**  
+`Git`, `MongoDB`, `Linux`, `VS Code`
+
+---
+
+#### 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/kireeti28)
+- [Email](mailto:kireeti428@gmail.com)
 
 
 <!--
