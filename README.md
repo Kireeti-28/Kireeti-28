@@ -5,7 +5,7 @@ I'm a software developer who enjoys crafting clean, scalable solutions — from 
 - 💼 I professionally work with **Java**, **Spring Framework**, and **Angular** to build full-stack enterprise applications.  
 - 🌱 Currently exploring **Go**, diving into backend concurrency and systems programming.  
 - 💡 Passionate about **clean architecture**, **modular codebases**, and writing code that's easy to understand and maintain.  
-- 🧰 Experienced in building REST APIs, integrating complex systems, and creating responsive UIs.  
+- 🧰 Experienced in building REST APIs, integrating complex systems, and creating responsive UIs.
 - 🛠️ Always experimenting with new tech through side projects, tools, and prototypes.  
 - 😄 Pronouns: **He/Him**.  
 - ⚡ Fun fact: Work on a software product is never *truly* complete — there’s always something to improve or rethink.
