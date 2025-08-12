@@ -15,7 +15,7 @@ I'm a software developer who enjoys crafting clean, scalable solutions — from 
 #### 📌 Tech Stack
 
 **Languages & Frameworks:**  
-`Java`, `Go`, `TypeScript`, `JavaScript`  
+`Java`, `Go`, `Python`, `TypeScript`, `JavaScript`  
 `Spring`, `Angular`, `Node.js`
 
 **Tools & Platforms:**  
